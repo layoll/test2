@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: a097990f6d5e85c40ac2b8e269e57b6a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: checkjang_L_surab_L_
+    100002: checkjang_L_surab_L_outline
+    100004: checkjang_L_surab_R_
+    100006: checkjang_L_surab_R_outline
+    100008: checkjang_R_surab_L_
+    100010: checkjang_R_surab_L_outline
+    100012: checkjang_R_surab_R_
+    100014: checkjang_R_surab_R_outline
+    100016: geosil_island_surab
+    100018: geosil_island_surab_outline
+    100020: geosil_jangsickjang_side_surab_top
+    100022: geosil_jangsickjang_side_surab_top_outline
+    100024: geosil_jangsickjang_side_surab_under
+    100026: geosil_jangsickjang_side_surab_under_outline
+    100028: geosil_wall_surab
+    100030: geosil_wall_surab_outline
+    100032: goesil_sofa_side_surab_top
+    100034: goesil_sofa_side_surab_top_outline
+    100036: goesil_sofa_side_surab_under
+    100038: goesil_sofa_side_surab_under_outline
+    100040: gyedan_sunab_surab_L
+    100042: gyedan_sunab_surab_L_outline
+    100044: gyedan_sunab_surab_M
+    100046: gyedan_sunab_surab_M_outline
+    100048: gyedan_sunab_surab_R
+    100050: gyedan_sunab_surab_R_outline
+    100052: kitchen_sunabjang_surab_L
+    100054: kitchen_sunabjang_surab_L_outline
+    100056: kitchen_sunabjang_surab_R
+    100058: kitchen_sunabjang_surab_R_outline
+    100060: //RootNode
+    400000: checkjang_L_surab_L_
+    400002: checkjang_L_surab_L_outline
+    400004: checkjang_L_surab_R_
+    400006: checkjang_L_surab_R_outline
+    400008: checkjang_R_surab_L_
+    400010: checkjang_R_surab_L_outline
+    400012: checkjang_R_surab_R_
+    400014: checkjang_R_surab_R_outline
+    400016: geosil_island_surab
+    400018: geosil_island_surab_outline
+    400020: geosil_jangsickjang_side_surab_top
+    400022: geosil_jangsickjang_side_surab_top_outline
+    400024: geosil_jangsickjang_side_surab_under
+    400026: geosil_jangsickjang_side_surab_under_outline
+    400028: geosil_wall_surab
+    400030: geosil_wall_surab_outline
+    400032: goesil_sofa_side_surab_top
+    400034: goesil_sofa_side_surab_top_outline
+    400036: goesil_sofa_side_surab_under
+    400038: goesil_sofa_side_surab_under_outline
+    400040: gyedan_sunab_surab_L
+    400042: gyedan_sunab_surab_L_outline
+    400044: gyedan_sunab_surab_M
+    400046: gyedan_sunab_surab_M_outline
+    400048: gyedan_sunab_surab_R
+    400050: gyedan_sunab_surab_R_outline
+    400052: kitchen_sunabjang_surab_L
+    400054: kitchen_sunabjang_surab_L_outline
+    400056: kitchen_sunabjang_surab_R
+    400058: kitchen_sunabjang_surab_R_outline
+    400060: //RootNode
+    2100000: 'Material #56'
+    2100002: 'Material #262'
+    2100004: 'Material #269'
+    2300000: checkjang_L_surab_L_
+    2300002: checkjang_L_surab_L_outline
+    2300004: checkjang_L_surab_R_
+    2300006: checkjang_L_surab_R_outline
+    2300008: checkjang_R_surab_L_
+    2300010: checkjang_R_surab_L_outline
+    2300012: checkjang_R_surab_R_
+    2300014: checkjang_R_surab_R_outline
+    2300016: geosil_island_surab
+    2300018: geosil_island_surab_outline
+    2300020: geosil_jangsickjang_side_surab_top
+    2300022: geosil_jangsickjang_side_surab_top_outline
+    2300024: geosil_jangsickjang_side_surab_under
+    2300026: geosil_jangsickjang_side_surab_under_outline
+    2300028: geosil_wall_surab
+    2300030: geosil_wall_surab_outline
+    2300032: goesil_sofa_side_surab_top
+    2300034: goesil_sofa_side_surab_top_outline
+    2300036: goesil_sofa_side_surab_under
+    2300038: goesil_sofa_side_surab_under_outline
+    2300040: gyedan_sunab_surab_L
+    2300042: gyedan_sunab_surab_L_outline
+    2300044: gyedan_sunab_surab_M
+    2300046: gyedan_sunab_surab_M_outline
+    2300048: gyedan_sunab_surab_R
+    2300050: gyedan_sunab_surab_R_outline
+    2300052: kitchen_sunabjang_surab_L
+    2300054: kitchen_sunabjang_surab_L_outline
+    2300056: kitchen_sunabjang_surab_R
+    2300058: kitchen_sunabjang_surab_R_outline
+    3300000: checkjang_L_surab_L_
+    3300002: checkjang_L_surab_L_outline
+    3300004: checkjang_L_surab_R_
+    3300006: checkjang_L_surab_R_outline
+    3300008: checkjang_R_surab_L_
+    3300010: checkjang_R_surab_L_outline
+    3300012: checkjang_R_surab_R_
+    3300014: checkjang_R_surab_R_outline
+    3300016: geosil_island_surab
+    3300018: geosil_island_surab_outline
+    3300020: geosil_jangsickjang_side_surab_top
+    3300022: geosil_jangsickjang_side_surab_top_outline
+    3300024: geosil_jangsickjang_side_surab_under
+    3300026: geosil_jangsickjang_side_surab_under_outline
+    3300028: geosil_wall_surab
+    3300030: geosil_wall_surab_outline
+    3300032: goesil_sofa_side_surab_top
+    3300034: goesil_sofa_side_surab_top_outline
+    3300036: goesil_sofa_side_surab_under
+    3300038: goesil_sofa_side_surab_under_outline
+    3300040: gyedan_sunab_surab_L
+    3300042: gyedan_sunab_surab_L_outline
+    3300044: gyedan_sunab_surab_M
+    3300046: gyedan_sunab_surab_M_outline
+    3300048: gyedan_sunab_surab_R
+    3300050: gyedan_sunab_surab_R_outline
+    3300052: kitchen_sunabjang_surab_L
+    3300054: kitchen_sunabjang_surab_L_outline
+    3300056: kitchen_sunabjang_surab_R
+    3300058: kitchen_sunabjang_surab_R_outline
+    4300000: checkjang_L_surab_L_outline
+    4300002: checkjang_L_surab_L_
+    4300004: checkjang_L_surab_R_outline
+    4300006: checkjang_L_surab_R_
+    4300008: checkjang_R_surab_L_outline
+    4300010: checkjang_R_surab_L_
+    4300012: checkjang_R_surab_R_outline
+    4300014: checkjang_R_surab_R_
+    4300016: geosil_island_surab_outline
+    4300018: geosil_island_surab
+    4300020: geosil_jangsickjang_side_surab_top_outline
+    4300022: geosil_jangsickjang_side_surab_top
+    4300024: geosil_jangsickjang_side_surab_under_outline
+    4300026: geosil_jangsickjang_side_surab_under
+    4300028: geosil_wall_surab_outline
+    4300030: geosil_wall_surab
+    4300032: goesil_sofa_side_surab_top_outline
+    4300034: goesil_sofa_side_surab_top
+    4300036: goesil_sofa_side_surab_under_outline
+    4300038: goesil_sofa_side_surab_under
+    4300040: gyedan_sunab_surab_L_outline
+    4300042: gyedan_sunab_surab_L
+    4300044: gyedan_sunab_surab_M_outline
+    4300046: gyedan_sunab_surab_M
+    4300048: gyedan_sunab_surab_R_outline
+    4300050: gyedan_sunab_surab_R
+    4300052: kitchen_sunabjang_surab_R_outline
+    4300054: kitchen_sunabjang_surab_R
+    4300056: kitchen_sunabjang_surab_L_outline
+    4300058: kitchen_sunabjang_surab_L
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
